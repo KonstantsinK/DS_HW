@@ -29,10 +29,16 @@
  Для классификации использовались следующие модели:
  
 CatBoost,
+
 GradientBoosting,
+
 KNeighbors,
+
 RandomForest,
+
 LogisticRegression,
+
 StackingClassifier с базовыми классификаторами - CatBoost, RandomForest, ExtraTrees и мета-классификатором LogisticRegression.
+
 
 
